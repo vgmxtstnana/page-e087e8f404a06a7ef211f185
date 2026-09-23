@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "4d40d307825f9a9a8a648181",
+  "owner": "vgmxtstnana",
+  "repo": "page-e087e8f404a06a7ef211f185",
+  "title": "911Cloud",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e087e8f404a06a7ef211f185",
+      "a": "911Cloud",
+      "b": "2027官方最新地址导航",
+      "entity": "911Cloud",
+      "brand": "911Cloud",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e8bb58b146aa6e138d610c7189293b92895339d802b16e354fcb196461793e9c",
+      "content": {
+        "primary_entity": "911Cloud",
+        "keyword1": "911Cloud",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备挑选客户端：桌面端、移动端或路由器插件，导入订阅后即可使用。",
+          "AI_CLIENTS_TITLE": "客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐后按客户端文档配置订阅，即可开始使用。",
+          "AI_CLOSING_TITLE": "开始配置",
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比展开。基础版适合单人轻量使用，旗舰版兼顾多设备与流媒体，团队版面向高流量与多人共享场景。按设备安装对应客户端，导入订阅即可完成配置。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度选择，让套餐更贴合日常使用。",
+          "AI_FEATURES_TITLE": "选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备；旗舰版 5 台；团队版 20 台。",
+          "AI_FEATURE_TEXT_2": "旗舰版含 300GB 每月流量，含 IPLC 专线游戏加速优化。",
+          "AI_FEATURE_TEXT_3": "年付更划算：基础版 ¥150/年，旗舰版 ¥350/年。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量与线路",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "先确定设备数量与流量需求，再选择合适的套餐并完成订阅导入。",
+          "AI_GUIDE_TITLE": "三步上手",
+          "AI_HERO_INTRO": "911Cloud 提供多档海外加速套餐，覆盖 3 至 20 台设备同时在线需求。基础版、旗舰版与团队版分别对应轻量、多设备与高流量场景，年付价格更优惠。",
+          "AI_HERO_SUBTITLE": "多设备海外加速套餐",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同设备数量",
+          "AI_HIGHLIGHT_2": "年付方案节省月度支出",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线优化",
+          "AI_PLANS_INTRO": "基础版 ¥15/月适合单人或少量设备；旗舰版 ¥35/月支持 5 台设备与流媒体；团队版 ¥85/月支持 20 台设备与高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，在基础版、旗舰版、团队版中选择。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，按对应文档进行安装。",
+          "AI_STEP_TEXT_3": "在客户端中导入订阅信息，保存后即可连接使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "选择适合的加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "911Cloud 三档套餐有什么区别？",
+          "AI_FAQ_ANSWER_1": "月流量分别为 100GB、300GB、1000GB；设备上限为 3 台、5 台、20 台；旗舰版与团队版提供更高带宽或专线节点。",
+          "AI_FAQ_QUESTION_2": "月付和年付怎么选？",
+          "AI_FAQ_ANSWER_2": "年付价格更低，如基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年。先按月试用，确认稳定后再转年付。",
+          "AI_FAQ_QUESTION_3": "一个账号可以同时连几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版 3 台，旗舰版 5 台，团队版 20 台。超出后新设备可能无法同时连接，可升级套餐扩容。",
+          "AI_FAQ_QUESTION_4": "支持哪些客户端？",
+          "AI_FAQ_ANSWER_4": "按设备系统选择对应客户端，再按客户端文档导入订阅。具体兼容情况以所用客户端说明为准。",
+          "AI_FAQ_QUESTION_5": "流量用超了怎么办？",
+          "AI_FAQ_ANSWER_5": "当月流量用尽可升级至更高档套餐，或等到下个计费周期重置。团队版 1000GB 适合高用量场景。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "qiantongstore.cn",
+    "host": "qiantongstore.cn"
+  },
+  "file_hashes": {
+    "index.html": "9dc2df654e326cb2133255f2b6bf0815ede329b0d6a50afdafec4a4c89299e7f",
+    "sitemap.xml": "b96b11f2f04c92fa9c253e0aff437aab2a82c6cd6b7eb6d6810e294668cce04d",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "521cc444958f10976a737c621a53961159751f66aff2606c61a777fd0712bf4f",
+    "robots.txt": "84ce0c7b751762e787ed6123b3f5bb26dfbc5ad4b80b4d9e652bc0e43dc4d3a0",
+    "b84e706316d2ba4ec58556c4ca706e06.txt": "febdbc04d4452e9d5366125af7561807ee48c9a5658b2244d6265798a047030b"
+  },
+  "revision": "fb0bd55f2237517a6a2390ed85b75dd09462728c6d7486ffb4456aef1dca63d1"
+}
